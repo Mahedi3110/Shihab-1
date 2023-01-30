@@ -1,0 +1,28 @@
+body {
+    background-color: cornflowerblue;
+}
+
+.image {
+    width: 35%;
+    height: 35%;
+    border-radius: 50%;
+}
+
+.good {
+    display: flex;
+}
+
+.ul-list {
+    font-size: 2em;
+}
+
+table {
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+td,
+th {
+    border: 1px solid black;
+    padding: 5px 15px;
+}
